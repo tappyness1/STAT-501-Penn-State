@@ -8,3 +8,4 @@ __Content__
 - Lesson 2: SLR Model Evaluation (Linear Regression Evaluation.ipynb)
 - Lesson 3: SLR Estimation & Prediction (Linear Regression Estimation and Prediction.ipynb)
 - Lesson 4: SLR Model Assumptions (Linear Regression Model Assumptions.ipynb)
+- Lesson 5: Multiple Linear Regression (MLR) Model (Lesson 5 - MLR.ipynb)
